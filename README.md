@@ -1,4 +1,4 @@
-CrossUO is a cross-platform Ultima Online client that is similar to ClassicUO but there are distinct differences. One that I like in particular is the text entry mode which will prefix certain things for you like yell, whisper,emote, broadcat, party and Command. Command is very helpful when administering a server.
+CrossUO is a cross-platform Ultima Online client that is similar to ClassicUO but there are distinct differences. One that I like in particular is the text entry mode which will prefix certain things for you like yell, whisper,emote, broadcast, party and Command. Command is very helpful when administering a server.
 
 
 <!--
