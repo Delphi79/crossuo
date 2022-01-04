@@ -7,8 +7,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 # CrossUO Client
 
-[![Travis Build Status](https://travis-ci.org/crossuo/crossuo.svg?branch=master)](https://travis-ci.org/crossuo/crossuo)
-[![Build status](https://ci.appveyor.com/api/projects/status/t7rtpwwv6m0fguc4?svg=true)](https://ci.appveyor.com/project/fungos/crossuo)
+[![build](https://github.com/crossuo/crossuo/actions/workflows/build.yml/badge.svg)](https://github.com/crossuo/crossuo/actions/workflows/build.yml)
+[![REUSE status](https://api.reuse.software/badge/github.com/crossuo/crossuo)](https://api.reuse.software/info/github.com/crossuo/crossuo)
 
 CrossUO is a cross-platform Ultima Online client in active development.
 
